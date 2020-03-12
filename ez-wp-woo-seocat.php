@@ -2,7 +2,7 @@
 
 /*
  * Plugin Name: EZ WooSeoCat
- * Plugin URI: https://zev-s.com/kod/wordpress/ez-wp-seocat/
+ * Plugin URI: https://zev-s.com/kod/wordpress/ez-wp-woo-seocat/
  * Description: Добавляем теги к категориям товаров woocommerce
  * Version: 0.0.1
  * Author: Evgenii Z
